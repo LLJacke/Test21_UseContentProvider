@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test21_UseContentProvider</string>
+    <string name="all">All</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="deleteall">deleteall</string>
+    <string name="update">update</string>
+    <string name="search">search</string>
+</resources>
